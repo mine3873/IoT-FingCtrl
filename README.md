@@ -1,4 +1,7 @@
 # IoT-FingCtrl
+## PROPOSAL VIDEO
+[![video](https://img.youtube.com/vi/q_JButZIfpA/hqdefault.jpg)](https://www.youtube.com/watch?v=q_JButZIfpA)
+
 ## System Concept 
 This project implements a wearable input device that enables users to control a smart device using hand gestures, without touching a screen or using void commands.
 By detecting the bending status of each finger, the system translates physical finger movements into a 5 bit bianry gesture code, which is mapped to a corresponding key input and sent via BLE.
